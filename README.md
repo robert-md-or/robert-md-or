@@ -23,9 +23,7 @@
 
 ## 📊 Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robert-md-or&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
-</div>
+
 
 <br/>
 
