@@ -19,11 +19,7 @@
 
 ## 🔥 Open Source
 
-<a href="https://github.com/jellyfin/jellyfin-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jellyfin&repo=jellyfin-web&theme=dark" />
-</a>
-
-<br/><br/>
+[![jellyfin-web](https://img.shields.io/badge/Contributor-Jellyfin_Web-purple?style=for-the-badge&logo=github)](https://github.com/jellyfin/jellyfin-web)
 
 ## 📊 Stats
 
