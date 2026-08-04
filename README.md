@@ -34,7 +34,6 @@ const robert = {
 ### 🔥 Open Source
 
 [![ngrx-platform](https://img.shields.io/badge/Contributor-NgRx_Platform-BA2BD2?style=for-the-badge&logo=github)](https://github.com/ngrx/platform)
-[![jellyfin-web](https://img.shields.io/badge/Contributor-Jellyfin_Web-purple?style=for-the-badge&logo=github)](https://github.com/jellyfin/jellyfin-web)
 
 ---
 
